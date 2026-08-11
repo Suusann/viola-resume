@@ -2,13 +2,13 @@
 
 ## 🎯 目标
 让国内访问也快速稳定:
-`https://suusann.gitee.io/viola-resume/`
+`https://viola0408.gitee.io/viola-resume/`
 
 (对比 GitHub Pages 国内访问慢,这个版本国内打开 1-3 秒)
 
 ## 步骤 1:注册 + 实名 Gitee
 
-1. 打开 https://gitee.com 注册账号(用户名最好用 `Suusann`,保持一致)
+1. 打开 https://gitee.com 注册账号(用户名建议 `viola0408`)
 2. 注册后立刻做**实名认证**:
    - 右上角头像 → 设置 → 实名认证
    - 上传身份证正反面 + 人脸识别
@@ -22,7 +22,7 @@
 | 字段 | 填什么 |
 |---|---|
 | **仓库名称** | `viola-resume`(必须和 GitHub 那个完全一致) |
-| **路径** | 自动填充 `Suusann/viola-resume` |
+| **路径** | 自动填充 `viola0408/viola-resume` |
 | **仓库介绍** | 中提琴演奏简历 |
 | **是否开源** | **公开**(Pages 必须公开) |
 | **使用 Readme 文件初始化仓库** | **不勾选**(本地已有) |
@@ -40,12 +40,12 @@ git push -u gitee main
 ```
 
 按提示输入:
-- **Username**: `Suusann`(你的 Gitee 用户名)
+- **Username**: `viola0408`(你的 Gitee 用户名)
 - **Password**: 你的 Gitee 密码(Gitee 支持密码 push,不用 PAT)
 
 ## 步骤 4:启用 Gitee Pages
 
-1. 进入 Gitee 仓库主页 https://gitee.com/Suusann/viola-resume
+1. 进入 Gitee 仓库主页 https://gitee.com/viola0408/viola-resume
 2. 顶部菜单点 **服务** → **Gitee Pages**
 3. 第一次会弹一个**实名认证 + 仓库公开**的检查页
 4. 选择 **master** 或 **main** 分支(看哪个有内容)
@@ -53,7 +53,7 @@ git push -u gitee main
 6. 点 **启动**
 7. ⚠️ 首次部署会进入**审核队列**,通常 **1-2 个工作日**通过
 8. 审核通过后会显示你的网址:
-   > ✅ `https://suusann.gitee.io/viola-resume/`
+   > ✅ `https://viola0408.gitee.io/viola-resume/`
 
 ## 以后怎么更新
 
