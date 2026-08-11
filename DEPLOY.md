@@ -2,12 +2,12 @@
 
 ## 🎯 目标
 把这个简历变成一个永久网址,比如:
-`https://642995562.github.io/viola-resume/`
+`https://Suusann.github.io/viola-resume/`
 
 ## 步骤 1:在 GitHub 上创建空仓库
 
 1. 打开 https://github.com/new
-2. 登录你的账号(642995562@qq.com)
+2. 登录你的账号(`Suusann`)
 3. 填写:
    - **Repository name**: `viola-resume`(必须这个名,Pages 才能用 `用户名.github.io/viola-resume/` 这种路径)
    - **Description**: 中提琴演奏简历
@@ -31,7 +31,7 @@ git commit -m "Initial commit: 中提琴演奏简历"
 
 **然后你来执行这一步**(粘贴到终端回车):
 ```bash
-git remote add origin https://github.com/642995562/viola-resume.git
+git remote add origin https://github.com/Suusann/viola-resume.git
 git branch -M main
 git push -u origin main
 ```
@@ -57,7 +57,7 @@ push 的时候,会弹窗让你输入 GitHub 用户名和密码。
 5. **Branch** 选 `main` / `/ (root)`
 6. 点 **Save**
 7. 等 1-2 分钟,刷新页面,会显示一行绿色的网址:
-   > 🎉 Your site is live at `https://642995562.github.io/viola-resume/`
+   > 🎉 Your site is live at `https://Suusann.github.io/viola-resume/`
 
 把这个网址发给任何人,他们都能看到你的简历 ✨
 
